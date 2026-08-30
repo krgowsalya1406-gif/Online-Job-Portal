@@ -1,0 +1,145 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f5f5f5;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+}
+
+.container{
+    width:420px;
+    background:#fff;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+.icon{
+    font-size:60px;
+    margin-bottom:10px;
+}
+
+h1{
+    margin-bottom:25px;
+    color:#222;
+}
+
+label{
+    display:block;
+    font-size:18px;
+    font-weight:bold;
+    margin:18px 0 8px;
+}
+
+input[type="text"]{
+    width:100%;
+    padding:15px;
+    font-size:18px;
+    border:2px solid #00a99d;
+    border-radius:10px;
+    outline:none;
+}
+
+.options{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+    margin-bottom:15px;
+}
+
+.options label{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    background:#f2f2f2;
+    padding:12px 18px;
+    border-radius:25px;
+    cursor:pointer;
+    font-size:16px;
+    font-weight:normal;
+}
+
+.options input{
+    display:none;
+}
+
+.options input:checked + span{
+    color:#fff;
+}
+
+.checkbox{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin:25px 0;
+    font-size:18px;
+}
+
+.checkbox input{
+    width:20px;
+    height:20px;
+}
+
+button{
+    width:100%;
+    padding:16px;
+    background:#009688;
+    color:white;
+    border:none;
+    border-radius:30px;
+    font-size:22px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#00796b;
+}
+
+input[type="radio"]{
+    display:none;
+}
+
+.gender-btn{
+    display:inline-block;
+    padding:12px 20px;
+    margin:5px;
+    background:#f2f2f2;
+    border-radius:25px;
+    cursor:pointer;
+    border:2px solid #ddd;
+}
+
+input[type="radio"]:checked + .gender-btn{
+    background:#ffdede;
+    border-color:#ff8a8a;
+    font-weight:bold;
+}
+
+input[type="radio"]{
+    display:none;
+}
+
+.option-btn{
+    display:inline-block;
+    padding:12px 20px;
+    margin:8px;
+    border-radius:25px;
+    background:#f3f3f3;
+    border:2px solid #ddd;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+input[type="radio"]:checked + .option-btn{
+    background:#ffe6e6;
+    border-color:#ff8a8a;
+    color:#000;
+    font-weight:bold;
+}
