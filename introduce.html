@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduce Yourself</title>
+    <link rel="stylesheet" href="introduce.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="icon">📋</div>
+
+    <h1>Create Your Profile </h1>
+
+    <form id="introForm">
+
+        <label>Your Name</label>
+        <input type="text" id="name" placeholder="Enter your name" required>
+
+        <label>Gender</label>
+        <div class="options">
+            <input type="radio" id="male" name="gender" value="Male">
+<label for="male" class="gender-btn">👨 Male</label>
+
+<input type="radio" id="female" name="gender" value="Female">
+<label for="female" class="gender-btn">👩 Female</label>
+        </div>
+
+        <label>Education</label>
+        <div class="options">
+            <input type="radio" id="below10" name="education" value="Below 10th">
+            <label for="below10" class="option-btn">Below 10th</label>
+            
+            <input type="radio" id="pass10" name="education" value="10th Pass">
+            <label for="pass10" class="option-btn">10th Pass</label>
+            
+            <input type="radio" id="pass12" name="education" value="12th Pass">
+            <label for="pass12" class="option-btn">12th Pass</label>
+            
+            <input type="radio" id="diploma" name="education" value="Diploma">
+            <label for="diploma" class="option-btn">Diploma</label>
+            
+            <input type="radio" id="graduate" name="education" value="Graduate">
+            <label for="graduate" class="option-btn">Graduate</label>
+            
+            <input type="radio" id="postgraduate" name="education" value="Post Graduate">
+            <label for="postgraduate" class="option-btn">Post Graduate</label>
+            
+        </div>
+
+        <label>Work Experience</label>
+        <div class="options">
+            <input type="radio" id="experience" name="work" value="Experience">
+<label for="experience" class="option-btn">I have experience</label>
+
+<input type="radio" id="fresher" name="work" value="Fresher">
+<label for="fresher" class="option-btn">I am a fresher</label>
+        </div>
+
+        <div class="checkbox">
+            <input type="checkbox" id="whatsapp">
+            <label for="whatsapp">Get job updates on WhatsApp</label>
+        </div>
+
+        <button type="submit">Next</button>
+
+    </form>
+
+</div>
+
+<script src="introduce.js"></script>
+
+</body>
+</html>
