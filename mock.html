@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mock Interview Practice</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#f4f7fc;
+}
+
+.container{
+    width:90%;
+    max-width:700px;
+    margin:50px auto;
+    background:#fff;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+h1{
+    text-align:center;
+    color:#0066cc;
+}
+
+#question{
+    margin:25px 0;
+    font-size:22px;
+    font-weight:bold;
+}
+
+textarea{
+    width:100%;
+    height:180px;
+    padding:10px;
+    font-size:16px;
+    border-radius:8px;
+    border:1px solid #ccc;
+    resize:none;
+}
+
+button{
+    margin-top:20px;
+    width:100%;
+    padding:12px;
+    border:none;
+    background:#0066cc;
+    color:white;
+    font-size:18px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#004c99;
+}
+
+#result{
+    margin-top:25px;
+    text-align:center;
+    font-size:20px;
+    color:green;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>Mock Interview Practice</h1>
+
+<div id="question"></div>
+
+<textarea id="answer" placeholder="Type your answer here..."></textarea>
+
+<button onclick="nextQuestion()">Next</button>
+
+<div id="result"></div>
+
+</div>
+
+<script>
+
+const interview = [
+
+{
+question:"Tell me about yourself.",
+keywords:["student","graduate","skills","project","goal"]
+},
+
+{
+question:"What are your strengths?",
+keywords:["hardworking","team","communication","leadership","quick learner"]
+},
+
+{
+question:"What are your weaknesses?",
+keywords:["improve","learning","confidence","time","experience"]
+},
+
+{
+question:"Why should we hire you?",
+keywords:["skills","dedicated","team","learn","contribute"]
+},
+
+{
+question:"Why do you want to work in our company?",
+keywords:["company","growth","career","learn","opportunity"]
+},
+
+{
+question:"What are your career goals?",
+keywords:["career","software","developer","growth","learn"]
+},
+
+{
+question:"Describe a challenging situation.",
+keywords:["problem","solution","team","project","success"]
+},
+
+{
+question:"How do you handle pressure?",
+keywords:["calm","plan","priority","focus","time"]
+},
+
+{
+question:"Where do you see yourself in five years?",
+keywords:["career","leadership","learn","growth","developer"]
+},
+
+{
+question:"Do you have any questions for us?",
+keywords:["training","growth","team","project","company"]
+}
+
+];
+
+let current = 0;
+let totalScore = 0;
+
+showQuestion();
+
+function showQuestion(){
+document.getElementById("question").innerHTML =
+"Question " + (current+1) + "<br><br>" + interview[current].question;
+}
+
+function nextQuestion(){
+
+let answer = document.getElementById("answer").value.toLowerCase();
+
+let score = 0;
+
+interview[current].keywords.forEach(function(word){
+
+if(answer.includes(word)){
+score += 2;
+}
+
+});
+
+totalScore += score;
+
+document.getElementById("answer").value="";
+
+current++;
+
+if(current < interview.length){
+
+showQuestion();
+
+}else{
+
+document.getElementById("question").style.display="none";
+document.getElementById("answer").style.display="none";
+document.querySelector("button").style.display="none";
+
+let msg="";
+
+if(totalScore>=90){
+msg="🏆 Excellent Performance!";
+}
+else if(totalScore>=70){
+msg="🌟 Very Good!";
+}
+else if(totalScore>=50){
+msg="👍 Good. Keep Practicing!";
+}
+else{
+msg="📚 Needs Improvement!";
+}
+
+document.getElementById("result").innerHTML=
+"<h2>Your Interview Score</h2><br>" +
+"<h1>"+totalScore+"/100</h1><br>"+msg;
+
+}
+
+}
+
+</script>
+
+</body>
+</html>
