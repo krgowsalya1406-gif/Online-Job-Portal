@@ -25,7 +25,7 @@ A web-based job portal designed to connect job seekers with employers. Users can
   <tr>
     <td align="center">
       <b>🏠 Home Page</b><br><br>
-      <img src="images/home.png" width="400">
+      <img src="login.png" width="400">
     </td>
     <td align="center">
       <b>🔐 Login Page</b><br><br>
