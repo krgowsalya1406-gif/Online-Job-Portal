@@ -38,20 +38,21 @@ The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notif
 
 
 
-## 🚀 Live Demo
+## 🎥 project Demo
 
 
-[View Live Demo](https://github.com/krgowsalya1406-gif/Online-Job-Portal.git)
+[Project Demo](https://drive.google.com/file/d/1g8423RMjPp7ByNngiQ1SyIG-OD-J0ay1/view?usp=drive_link)
 
-**GitHub Repository:**
-**GitHub Repository:**  
-[🌐 View Source Code](https://github.com/krgowsalya1406-gif/Online-Job-Portal.git)
 
 ## 📸 Screenshots
 
 ### 🔐 Login Page
 A clean and responsive login page that allows users to securely access their Online Job Portal account using their email and password.
 ![Login](login.png)
+### 📝 Create Account
+
+![Create Account](assets/screenshots/create-account.png)
+
 
 ### 🏠 Job Portal Dashboard
 
