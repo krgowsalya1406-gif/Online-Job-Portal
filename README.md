@@ -40,13 +40,12 @@ The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notif
 
 ## 🚀 Live Demo
 
-**Online Job Portal Demo:**
-## 🚀 Live Demo
 
 [View Live Demo](https://github.com/krgowsalya1406-gif/Online-Job-Portal.git)
 
 **GitHub Repository:**
-Add your GitHub repository link here.
+**GitHub Repository:**  
+[🌐 View Source Code]()
 
 ## 📸 Screenshots
 
