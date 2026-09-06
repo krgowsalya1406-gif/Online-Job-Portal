@@ -103,7 +103,7 @@ A practice interview feature that helps users prepare for real interviews by ans
 
 
 ## 📁 Project Structure
-
+text
 📁 job-portal
 │
 ├── 📄 index.html
