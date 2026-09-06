@@ -63,13 +63,14 @@ A personalized dashboard that provides users with quick access to jobs, applicat
 ![Dashboard](image/dashboard.png)
 
 ### 📄 Resume Builder
+A user-friendly tool that helps users create professional resumes by adding their personal details, education, skills, and experience.
 
-![resume builder](resumebuilder.png)
+![Resume Builder](image/resume-builder.png)
 
 
 ### 📝 Apply for Job
 
-Add your job-application screenshot here.
+![applied](image/applied.png)
 
 ### 📋 My Applications
 
