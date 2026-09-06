@@ -84,6 +84,10 @@ A personalized profile page where users can manage their personal details, skill
 
 ![profile](image/profile.png)
 
+### 📊 Resume Score
+A smart tool that analyzes a resume and provides a score with suggestions to improve its quality and job relevance.
+
+![resumescore](image/resumescore.png)
 
 ## 📁 Project Structure
 
