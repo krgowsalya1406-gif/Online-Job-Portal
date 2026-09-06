@@ -74,12 +74,16 @@ A simple page that allows users to view and track the jobs they have applied for
 ![applied](image/appliedjob.png)
 
 ### 📋 My Applications
+A smart application tracker that helps users monitor applied jobs, application status, and interview progress in one place.
 
-Add your application-tracking screenshot here.
+![myapplication](image/myapplication.png)
+
 
 ### 👤 Profile
+A personalized profile page where users can manage their personal details, skills, education, experience, and professional information.
 
-Add your profile page screenshot here.
+![profile](image/profile.png)
+
 
 ## 📁 Project Structure
 
