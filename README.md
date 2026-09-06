@@ -1,30 +1,36 @@
 # 💼 Online Job Portal
 
-A modern and user-friendly **Online Job Portal** developed using HTML, CSS, and JavaScript. The platform helps job seekers discover suitable job opportunities, create professional resumes, apply for jobs, and track their applications from one place.
+A modern and user-friendly **Online Job Portal** developed using HTML, CSS, and JavaScript. The platform helps job seekers discover suitable job opportunities, search and filter jobs by location, save jobs, create professional resumes, check resume scores, apply for jobs, and track their applications from one place.
 
-The project is designed to provide a simple and efficient job-search experience with a clean interface and responsive design.
+The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notifications**, providing a complete and efficient job-search experience through a clean, responsive, and interactive interface.
 
 ## ✨ Features
 
-* 🔐 User Login & Registration
-* 🏠 Job Portal Dashboard
-* 🔍 Search and Filter Jobs
-* 💼 Browse Available Job Opportunities
-* 📄 Resume Builder
-* 📤 Upload / Manage Resume
-* 📝 Apply for Jobs
-* 📋 My Applications
-* 👤 User Profile
-* ❤️ Save / Bookmark Jobs
-* 📊 Application Status Tracking
-* 🔔 Job Notifications
-* 📱 Fully Responsive Design
-* 🎨 Clean and Modern User Interface
+
+🔐 User Login & Registration
+🏠 Personalized Dashboard
+🔍 Smart Job Search
+🎯 Advanced Job Filters
+📍 Location-Based Job Search
+💼 Job Listings & Job Details
+❤️ Save / Bookmark Jobs
+📄 Resume Builder
+📝 Apply for Jobs
+📊 Resume Score & Analysis
+📋 My Applications
+👤 My Profile
+🎤 Mock Interview
+🌙 Dark Mode
+🔔 Job Notifications
+
+
 
 ## 🚀 Live Demo
 
 **Online Job Portal Demo:**
-Add your deployed GitHub Pages / Netlify / Vercel link here.
+## 🚀 Live Demo
+
+[View Live Demo]()
 
 **GitHub Repository:**
 Add your GitHub repository link here.
@@ -32,7 +38,7 @@ Add your GitHub repository link here.
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-
+A clean and responsive login page that allows users to securely access their Online Job Portal account using their email and password.
 ![Login](login.png)
 
 ### 🏠 Job Portal Dashboard
