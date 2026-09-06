@@ -69,8 +69,9 @@ A user-friendly tool that helps users create professional resumes by adding thei
 
 
 ### 📝 Apply for Job
+A simple page that allows users to view and track the jobs they have applied for.
 
-![applied](image/applied.png)
+![applied](image/appliedjob.png)
 
 ### 📋 My Applications
 
