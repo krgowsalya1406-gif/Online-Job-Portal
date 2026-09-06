@@ -7,19 +7,33 @@ The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notif
 ## ✨ Features
 
 🔐 User Login & Registration
+
 🏠 Personalized Dashboard
+
 🔍 Smart Job Search
+
 🎯 Advanced Job Filters
+
 📍 Location-Based Job Search
+
 💼 Job Listings & Job Details
+
 ❤️ Save / Bookmark Jobs
+
 📄 Resume Builder
+
 📝 Apply for Jobs
+
 📊 Resume Score & Analysis
+
 📋 My Applications
+
 👤 My Profile
+
 🎤 Mock Interview
+
 🌙 Dark Mode
+
 🔔 Job Notifications
 
 
