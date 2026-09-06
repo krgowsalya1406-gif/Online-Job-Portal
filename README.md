@@ -48,9 +48,11 @@ The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notif
 
 ### 🔐 Login Page
 A clean and responsive login page that allows users to securely access their Online Job Portal account using their email and password.
+
 ![Login](login.png)
 ### 📝 Create Account
 A simple and responsive registration page that allows new users to create an account by entering their personal details, email address, and password. It includes form validation and a user-friendly interface for easy registration.
+
 ![create](create.png)
 
 
