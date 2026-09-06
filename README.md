@@ -63,13 +63,10 @@ A personalized dashboard that provides users with quick access to jobs, applicat
 ![dashboard](dashboards.png)
 
 
-### 🔍 Job Search
-
-Add your job-search screenshot here.
-
 ### 📄 Resume Builder
 
-Add your resume-builder screenshot here.
+![resume builder](resumebuilder.png)
+
 
 ### 📝 Apply for Job
 
