@@ -89,13 +89,13 @@ A smart tool that analyzes a resume and provides a score with suggestions to imp
 
 ![resumescore](image/resumescore.png)
 
-###⭐ Featured Jobs
+⭐ Featured Jobs
 
 A curated section that highlights popular and relevant job opportunities based on user interests and skills.
 
 ![featuredjob](image/featuredjob.png)
 
-###🎤 Mock Interview
+🎤 Mock Interview
 
 A practice interview feature that helps users prepare for real interviews by answering common questions and improving their confidence.
 
