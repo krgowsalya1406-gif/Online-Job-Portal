@@ -58,8 +58,10 @@ A simple and responsive registration page that allows new users to create an acc
 
 
 ### 🏠 Job Portal Dashboard
+A personalized dashboard that provides users with quick access to jobs, applications, saved jobs, and profile information.
 
-Add your dashboard screenshot here.
+![dashboard](cdashboard.png)
+
 
 ### 🔍 Job Search
 
