@@ -51,7 +51,7 @@ A clean and responsive login page that allows users to securely access their Onl
 ![Login](login.png)
 ### 📝 Create Account
 
-![Create Account](assets/screenshots/create-account.png)
+![Create Account](create.png)
 
 
 ### 🏠 Job Portal Dashboard
