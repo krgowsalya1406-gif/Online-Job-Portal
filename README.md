@@ -103,7 +103,10 @@ A practice interview feature that helps users prepare for real interviews by ans
 
 
 ## 📁 Project Structure
-text
+
+## 📁 Project Structure
+
+```text
 📁 job-portal
 │
 ├── 📄 index.html
@@ -126,6 +129,7 @@ text
 ├── ⚙️ location.js
 │
 └── 📁 image
+    │
     ├── 🖼️ create.png
     ├── 🖼️ dashboard.png
     ├── 🖼️ featuredjob.png
@@ -136,6 +140,8 @@ text
     ├── 🖼️ profile.png
     ├── 🖼️ resumebuilder.png
     └── 🖼️ resumescore.png
+```
+
 
 ## 🛠 Tech Stack
 
