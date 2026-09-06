@@ -45,7 +45,7 @@ The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notif
 
 **GitHub Repository:**
 **GitHub Repository:**  
-[🌐 View Source Code]()
+[🌐 View Source Code](https://github.com/krgowsalya1406-gif/Online-Job-Portal.git)
 
 ## 📸 Screenshots
 
