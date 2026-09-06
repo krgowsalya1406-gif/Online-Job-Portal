@@ -104,46 +104,47 @@ A practice interview feature that helps users prepare for real interviews by ans
 
 ## 📁 Project Structure
 
-```text
-📦 online-job-portal
+📁 job-portal
 │
 ├── 📄 index.html
-├── 📄 login.html
-├── 📄 register.html
+├── 📄 builder.html
+├── 📄 introduce.html
 ├── 📄 dashboard.html
 ├── 📄 jobs.html
 ├── 📄 resume.html
 ├── 📄 applications.html
 ├── 📄 profile.html
+├── 📄 mock.html
+├── 📄 web.html
 │
 ├── 🎨 style.css
-├── ⚙️ script.js
+├── 🎨 introduce.css
+├── 🎨 location.css
 │
-└── 📁 assets
-    ├── images
-    └── icons
-```
+├── ⚙️ script.js
+├── ⚙️ introduce.js
+├── ⚙️ location.js
+│
+└── 📁 image
+    ├── 🖼️ create.png
+    ├── 🖼️ dashboard.png
+    ├── 🖼️ featuredjob.png
+    ├── 🖼️ interview.png
+    ├── 🖼️ location.png
+    ├── 🖼️ login.png
+    ├── 🖼️ myapplication.png
+    ├── 🖼️ profile.png
+    ├── 🖼️ resumebuilder.png
+    └── 🖼️ resumescore.png
 
 ## 🛠 Tech Stack
 
 * HTML5
 * CSS3
 * JavaScript
-* Responsive Web Design
-* LocalStorage
 
-## ⚙️ How to Use
 
-1. Clone the repository.
-2. Open the project folder in VS Code.
-3. Open `index.html`.
-4. Run the project using **Live Server**.
-5. Register or log in to the portal.
-6. Search for available jobs.
-7. View job details.
-8. Create or update your resume.
-9. Apply for suitable jobs.
-10. Track your applications from **My Applications**.
+
 
 ## 🎯 Main Modules
 
