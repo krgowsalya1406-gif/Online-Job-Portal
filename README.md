@@ -33,7 +33,7 @@ Add your GitHub repository link here.
 
 ### 🔐 Login Page
 
-Add your login page screenshot here.
+![Login](login.png)
 
 ### 🏠 Job Portal Dashboard
 
