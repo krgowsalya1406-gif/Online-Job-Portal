@@ -4,6 +4,10 @@ A modern and user-friendly **Online Job Portal** developed using HTML, CSS, and 
 
 The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notifications**, providing a complete and efficient job-search experience through a clean, responsive, and interactive interface.
 
+## 🎯 Project Objective
+
+The main objective of this project is to create a simple and efficient platform that helps job seekers search for suitable jobs, build resumes, apply for opportunities, and track their applications in one place.
+
 ## ✨ Features
 
 🔐 User Login & Registration
@@ -102,7 +106,7 @@ A practice interview feature that helps users prepare for real interviews by ans
 ![interview](image/interview.png)
 
 
-## 📁 Project Structure
+
 
 ## 📁 Project Structure
 
@@ -149,35 +153,6 @@ A practice interview feature that helps users prepare for real interviews by ans
 * CSS3
 * JavaScript
 
-
-
-
-## 🎯 Main Modules
-
-### 🔐 Authentication
-
-Users can register and log in to access their personalized job portal.
-
-### 🔍 Job Search
-
-Users can search and filter jobs based on job title, company, location, and other criteria.
-
-### 📄 Resume Builder
-
-Users can create and manage a professional resume directly inside the portal.
-
-### 📝 Job Application
-
-Users can apply for available job opportunities using their profile and resume.
-
-### 📋 Application Tracking
-
-Users can view their submitted applications and monitor their application status.
-
-### 👤 Profile Management
-
-Users can update their personal information, skills, education, experience, and resume.
-
 ## 🌟 Project Highlights
 
 * Simple and intuitive user experience
@@ -202,7 +177,7 @@ Users can update their personal information, skills, education, experience, and 
 
 ## 📬 Contact
 
-Developed with ❤️ by **KR Kaushalya**
+Developed with ❤️ by **KR Gowsalya**
 
 If you find this project useful, feel free to ⭐ the repository and explore the project.
 
