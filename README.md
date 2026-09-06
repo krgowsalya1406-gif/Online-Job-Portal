@@ -6,7 +6,6 @@ The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notif
 
 ## ✨ Features
 
-
 🔐 User Login & Registration
 🏠 Personalized Dashboard
 🔍 Smart Job Search
