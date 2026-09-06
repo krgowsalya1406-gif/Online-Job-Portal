@@ -53,7 +53,7 @@ A clean and responsive login page that allows users to securely access their Onl
 ### 📝 Create Account
 A simple and responsive registration page that allows new users to create an account by entering their personal details, email address, and password. It includes form validation and a user-friendly interface for easy registration.
 
-![create](create.png)
+![Create Account](image/create.png)
 
 
 
