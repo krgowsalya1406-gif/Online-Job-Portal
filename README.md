@@ -99,7 +99,8 @@ A curated section that highlights popular and relevant job opportunities based o
 
 A practice interview feature that helps users prepare for real interviews by answering common questions and improving their confidence.
 
-![interview](interview.png)
+![interview](image/interview.png)
+
 
 ## 📁 Project Structure
 
