@@ -65,7 +65,7 @@ A personalized dashboard that provides users with quick access to jobs, applicat
 ### 📄 Resume Builder
 A user-friendly tool that helps users create professional resumes by adding their personal details, education, skills, and experience.
 
-![Resume Builder](image/resume-builder.png)
+![Resume Builder](image/resumebuilder.png)
 
 
 ### 📝 Apply for Job
