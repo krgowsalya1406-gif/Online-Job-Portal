@@ -177,7 +177,7 @@ A practice interview feature that helps users prepare for real interviews by ans
 
 ## 📬 Contact
 
-Developed with ❤️ by **KR Gowsalya**
+Developed with ❤️ by **K.R Gowsalya**
 
 If you find this project useful, feel free to ⭐ the repository and explore the project.
 
