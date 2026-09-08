@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>PDF Resume Scorer</title>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+
+<style>
+body{
+    font-family:Arial;
+    background:#f5f5f5;
+    padding:20px;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+input{
+    margin:10px 0;
+}
+
+.result{
+    margin-top:20px;
+    background:#eef;
+    padding:15px;
+    border-radius:8px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>ATS Resume Score Checker (PDF Upload)</h2>
+
+<input type="file" id="fileInput" accept="application/pdf">
+
+<div class="result" id="result">Upload PDF to get score</div>
+
+</div>
+
+<script>
+
+document.getElementById("fileInput").addEventListener("change", function(e){
+
+let file = e.target.files[0];
+
+if(file && file.type === "application/pdf"){
+
+let reader = new FileReader();
+
+reader.onload = function(){
+
+let typedarray = new Uint8Array(this.result);
+
+pdfjsLib.getDocument(typedarray).promise.then(function(pdf){
+
+let textContent = "";
+
+let pages = pdf.numPages;
+
+let count = 0;
+
+for(let i=1;i<=pages;i++){
+pdf.getPage(i).then(function(page){
+page.getTextContent().then(function(text){
+text.items.forEach(function(item){
+textContent += item.str + " ";
+});
+
+count++;
+
+if(count === pages){
+analyzeResume(textContent.toLowerCase());
+}
+
+});
+});
+}
+
+});
+
+};
+
+reader.readAsArrayBuffer(file);
+
+}else{
+alert("Please upload a PDF file");
+}
+
+});
+
+function analyzeResume(text){
+
+let score = 0;
+let feedback = [];
+
+// Keywords
+let skills = ["java","python","html","css","javascript","sql","react","node","git","github"];
+
+let skillCount = 0;
+
+skills.forEach(skill=>{
+if(text.includes(skill)) skillCount++;
+});
+
+score += Math.min(skillCount * 3, 25);
+
+if(skillCount < 5){
+feedback.push("Add more technical skills.");
+}
+
+// Projects
+if(text.includes("project")){
+score += 15;
+}else{
+feedback.push("Add projects section.");
+}
+
+// Education
+if(text.includes("education") || text.includes("b.e") || text.includes("degree")){
+score += 10;
+}else{
+feedback.push("Education missing.");
+}
+
+// Experience / Internship
+if(text.includes("internship") || text.includes("experience")){
+score += 15;
+}else{
+feedback.push("Add internship or experience.");
+}
+
+// Certifications
+if(text.includes("certification") || text.includes("certificate")){
+score += 10;
+}
+
+// ATS headings
+if(text.includes("skills") && text.includes("project")){
+score += 10;
+}
+
+// Contact info
+if(text.includes("@") && /\d{10}/.test(text)){
+score += 10;
+}else{
+feedback.push("Add email and phone number.");
+}
+
+// Objective
+if(text.includes("objective") || text.includes("summary")){
+score += 5;
+}
+
+let level = "";
+
+if(score >= 90) level = "Excellent ⭐⭐⭐⭐⭐";
+else if(score >= 80) level = "Very Good ⭐⭐⭐⭐";
+else if(score >= 70) level = "Good ⭐⭐⭐";
+else if(score >= 60) level = "Average ⭐⭐";
+else level = "Needs Improvement ⭐";
+
+document.getElementById("result").innerHTML = `
+<h2>Resume Score: ${score}/100</h2>
+<h3>${level}</h3>
+<h4>Suggestions</h4>
+<ul>
+${feedback.map(f=>`<li>${f}</li>`).join("")}
+</ul>
+`;
+
+}
+
+</script>
+
+</body>
+</html>
