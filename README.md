@@ -47,6 +47,9 @@ The main objective of this project is to create a simple and efficient platform 
 
 [Project Demo](https://drive.google.com/file/d/1g8423RMjPp7ByNngiQ1SyIG-OD-J0ay1/view?usp=drive_link)
 
+## 🎥 project Demo
+[Live Demo](https://krgowsalya1406-gif.github.io/Online-Job-Portal/web.html)
+
 
 ## 📸 Screenshots
 
