@@ -45,7 +45,7 @@ The main objective of this project is to create a simple and efficient platform 
 ## 🎥 project Demo
 
 
-[Project Demo](https://drive.google.com/file/d/1g8423RMjPp7ByNngiQ1SyIG-OD-J0ay1/view?usp=drive_link)
+[Project Demo](https://www.kapwing.com/w/6aEj98MlAy)
 
 ## 🚀 Live Demo
 [Live Demo](https://prismatic-concha-c5fad9.netlify.app)
@@ -58,7 +58,7 @@ A clean and responsive login page that allows users to securely access their Onl
 
 ![Login](image/login.png)
 ### 📝 Create Account
-A simple and responsive registration page that allows new users to create an account by entering their personal details, email address, and password. It includes form validation and a user-friendly interface for easy registration.
+A simple and responsive profile creation page that allows users to enter their personal details, select their gender and educational qualification, and specify their work experience. It includes freshers and experienced options, WhatsApp job update preferences, and an easy-to-use interface for completing profile registration.
 
 ![Create Account](image/create.png)
 
