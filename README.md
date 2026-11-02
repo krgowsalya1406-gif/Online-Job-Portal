@@ -2,7 +2,7 @@
 
 A modern and user-friendly **Online Job Portal** developed using HTML, CSS, and JavaScript. The platform helps job seekers discover suitable job opportunities, search and filter jobs by location, save jobs, create professional resumes, check resume scores, apply for jobs, and track their applications from one place.
 
-The project also includes **My Profile, Mock Interview, Dark Mode, and Job Notifications**, providing a complete and efficient job-search experience through a clean, responsive, and interactive interface.
+The project also includes **My Profile, Mock Interview, Dark Mode**, providing a complete and efficient job-search experience through a clean, responsive, and interactive interface.
 
 ## 🎯 Project Objective
 
