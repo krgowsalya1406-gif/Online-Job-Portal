@@ -97,13 +97,13 @@ n intelligent resume analysis tool that evaluates uploaded resumes based on cont
 
 ⭐ Featured Jobs
 
-A curated section that highlights popular and relevant job opportunities based on user interests and skills.
+A personalized job recommendation section that displays popular and relevant job opportunities based on users' skills, interests, and qualifications. It helps freshers discover suitable openings, explore company details, and find career opportunities.
 
 ![featuredjob](image/featuredjob.png)
 
 🎤 Mock Interview
 
-A practice interview feature that helps users prepare for real interviews by answering common questions and improving their confidence.
+An interactive interview preparation feature that allows users to practice answering common technical and HR interview questions. It helps improve communication skills, technical knowledge, confidence, and interview performance through regular practice.
 
 ![interview](image/interview.png)
 
@@ -157,25 +157,31 @@ A practice interview feature that helps users prepare for real interviews by ans
 
 ## 🌟 Project Highlights
 
-* Simple and intuitive user experience
-* Responsive across desktop, tablet, and mobile
-* Organized job-search workflow
-* Interactive application tracking
-* Professional resume-building feature
-* Beginner-friendly frontend implementation
-* Clean and maintainable code structure
+- User-Friendly Interface: Clean, responsive, and easy-to-navigate design.
+- User Authentication: Secure registration and login functionality.
+- Personalized Dashboard: Quick access to jobs, applications, and profile details.
+- Resume Builder: Create and download professional resumes.
+- Resume Score Analyzer: Evaluate resumes and receive improvement suggestions.
+- Job Search: Explore job opportunities based on skills and location.
+- Featured Jobs: Discover popular and relevant job openings.
+- Application Tracking: Monitor applied jobs and application status.
+- Mock Interview: Practice technical and HR interview questions.
+- Profile Management: Manage personal details, education, skills, and experience.
+- Career Support: Helps freshers prepare for interviews and job opportunities.
 
 ## 📈 Future Enhancements
-
-* 🤖 AI-powered job recommendations
-* 💬 Recruiter and candidate chat
-* 📧 Email notifications
-* 🏢 Recruiter dashboard
-* 📊 Admin dashboard
-* ☁️ Cloud database integration
-* 🔎 Advanced job filtering
-* 🤖 AI Resume Analyzer
-* ⭐ Job and company reviews
+AI-Based Job Recommendations: Suggest suitable jobs based on users' skills, qualifications, and interests.
+AI Resume Optimization: Improve resumes by identifying missing keywords and suggesting changes based on job descriptions.
+Automated Job Alerts: Send notifications when new jobs matching a user's profile are available.
+Company Verification: Verify company profiles and job postings to reduce fake job opportunities.
+Advanced Job Filtering: Filter jobs by salary, experience, job type, location, and required skills.
+Real-Time Application Updates: Notify users when their application status changes.
+Online Interview Scheduling: Allow recruiters and candidates to schedule interviews through the platform.
+AI Mock Interview Evaluation: Analyze answers and provide feedback on communication, confidence, and technical knowledge.
+Skill Gap Analysis: Identify missing skills and recommend suitable courses to improve employability.
+Learning and Certification Integration: Connect users with online courses and certification programs.
+Recruiter Dashboard: Provide recruiters with tools to post jobs, review applications, and shortlist candidates.
+Career Progress Tracking: Help users monitor their job applications, interview progress, and career development.
 
 ## 📬 Contact
 
