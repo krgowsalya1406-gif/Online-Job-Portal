@@ -66,6 +66,7 @@ A simple and responsive profile creation page that allows users to enter their p
 
 ### 🏠 Job Portal Dashboard
 A responsive job portal dashboard designed for freshers and graduates, providing easy access to job opportunities, job applications, profile management, resume scoring, mock interview practice, and resume building. It includes a job search feature with location filters and a user-friendly interface to simplify the job search process.
+
 ![Dashboard](image/dashboard.png)
 
 ### 📄 Resume Builder
@@ -170,24 +171,20 @@ An interactive interview preparation feature that allows users to practice answe
 - Career Support: Helps freshers prepare for interviews and job opportunities.
 
 ## 📈 Future Enhancements
-AI-Based Job Recommendations: Suggest suitable jobs based on users' skills, qualifications, and interests.
-AI Resume Optimization: Improve resumes by identifying missing keywords and suggesting changes based on job descriptions.
-Automated Job Alerts: Send notifications when new jobs matching a user's profile are available.
-Company Verification: Verify company profiles and job postings to reduce fake job opportunities.
-Advanced Job Filtering: Filter jobs by salary, experience, job type, location, and required skills.
-Real-Time Application Updates: Notify users when their application status changes.
-Online Interview Scheduling: Allow recruiters and candidates to schedule interviews through the platform.
-AI Mock Interview Evaluation: Analyze answers and provide feedback on communication, confidence, and technical knowledge.
-Skill Gap Analysis: Identify missing skills and recommend suitable courses to improve employability.
-Learning and Certification Integration: Connect users with online courses and certification programs.
-Recruiter Dashboard: Provide recruiters with tools to post jobs, review applications, and shortlist candidates.
-Career Progress Tracking: Help users monitor their job applications, interview progress, and career development.
+1. AI Job Recommendations: Suggest suitable jobs based on users' skills, qualifications, and interests.
+2. Automated Job Alerts: Notify users about new job openings that match their profiles.
+3. Advanced Resume Analysis: Provide suggestions to improve resume quality and job relevance.
+4. AI Mock Interviews: Offer personalized interview questions and feedback to improve preparation.
+5. Skill Gap Analysis: Identify missing skills and recommend relevant courses.
+6. Online Interview Scheduling: Allow candidates to schedule interviews with recruiters.
+7. Real-Time Application Tracking: Provide instant updates about application and interview status.
+8. Recruiter Dashboard: Help companies post jobs, review applications, and shortlist candidates.
+9. Course Integration: Connect users with online learning platforms to improve their skills.
+10. Mobile Application: Develop a mobile app for easy access to job opportunities anytime.
 
 ## 📬 Contact
 
- ✨ Crafted with ❤️ by K.R. Gowsalya
-
-Like the project? ⭐ Star it, explore it, and keep building!
+Built with 💙 by K.R. Gowsalya
 
 
 
