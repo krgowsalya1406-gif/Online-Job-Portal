@@ -22,13 +22,13 @@ The main objective of this project is to create a simple and efficient platform 
 
 💼 Job Listings & Job Details
 
-❤️ Save / Bookmark Jobs
+❤️ Saved Jobs
 
 📄 Resume Builder
 
 📝 Apply for Jobs
 
-📊 Resume Score & Analysis
+📊 Resume Score 
 
 📋 My Applications
 
@@ -38,7 +38,7 @@ The main objective of this project is to create a simple and efficient platform 
 
 🌙 Dark Mode
 
-🔔 Job Notifications
+
 
 
 
