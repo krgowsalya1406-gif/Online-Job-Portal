@@ -65,34 +65,33 @@ A simple and responsive profile creation page that allows users to enter their p
 
 
 ### 🏠 Job Portal Dashboard
-A personalized dashboard that provides users with quick access to jobs, applications, saved jobs, and profile information.
-
+A responsive job portal dashboard designed for freshers and graduates, providing easy access to job opportunities, job applications, profile management, resume scoring, mock interview practice, and resume building. It includes a job search feature with location filters and a user-friendly interface to simplify the job search process.
 ![Dashboard](image/dashboard.png)
 
 ### 📄 Resume Builder
-A user-friendly tool that helps users create professional resumes by adding their personal details, education, skills, and experience.
+A user-friendly and responsive resume builder that allows users to create professional resumes by entering their personal details, educational qualifications, technical skills, certifications, projects, and work experience. It provides an organized resume layout with preview and download options, making it easy to generate a job-ready resume
 
 ![Resume Builder](image/resumebuilder.png)
 
 
 ### 📝 Apply for Job
-A simple page that allows users to view and track the jobs they have applied for.
+A user-friendly application page that allows users to explore job opportunities, view job details, and submit applications by providing their resume and required information. It simplifies the job application process with an easy-to-use interface.
 
 ![applied](image/appliedjob.png)
 
 ### 📋 My Applications
-A smart application tracker that helps users monitor applied jobs, application status, and interview progress in one place.
+A smart job application tracking page that helps users manage their applied jobs, monitor application statuses, track interview progress, and stay updated on their recruitment journey in one place.
 
 ![myapplication](image/myapplication.png)
 
 
 ### 👤 Profile
-A personalized profile page where users can manage their personal details, skills, education, experience, and professional information.
+A personalized profile management page that allows users to create and update their personal information, educational qualifications, technical skills, certifications, projects, achievements, and work experience. It helps users maintain a complete professional profile for job applications.
 
 ![profile](image/profile.png)
 
 ### 📊 Resume Score
-A smart tool that analyzes a resume and provides a score with suggestions to improve its quality and job relevance.
+n intelligent resume analysis tool that evaluates uploaded resumes based on content, skills, formatting, and job relevance. It provides a resume score along with improvement suggestions to help users create stronger, more effective resumes and improve their job opportunities.
 
 ![resumescore](image/resumescore.png)
 
