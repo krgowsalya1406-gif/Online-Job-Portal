@@ -17,11 +17,6 @@ A modern, responsive and interactive job portal designed to simplify the job-sea
 
 <br/><br/>
 
-<a href="#features">Features</a> •
-<a href="#screenshots">Screenshots</a> •
-<a href="#tech-stack">Tech Stack</a> •
-<a href="#installation">Installation</a> •
-<a href="#future-enhancements">Future Scope</a>
 
 </div>
 
