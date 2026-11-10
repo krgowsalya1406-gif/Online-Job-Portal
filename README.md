@@ -1,230 +1,191 @@
- <div align="center">
+ 
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080611,35:21143D,70:51328A,100:090612&height=230&section=header&text=ONLINE%20JOB%20PORTAL&fontSize=43&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=DISCOVER%20YOUR%20NEXT%20CHAPTER&descSize=14&descColor=C4B5FD&descAlignY=60" width="100%"/>
+# 💼 Online Job Portal
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=850&lines=Welcome+to+Online+Job+Portal+%F0%9F%9A%80;Discover+Your+Dream+Career+%F0%9F%92%BC;Build+Your+Resume+%7C+Apply+%7C+Succeed;Your+Career+Journey+Starts+Here+%E2%9C%A8" alt="Typing SVG" />
+
+### 🚀 Discover Opportunities. Build Your Future.
+
+A modern, responsive and interactive job portal designed to simplify the job-search journey for freshers and experienced professionals.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=19&duration=3500&pause=1200&color=BDA6F5&center=true&vCenter=true&width=750&lines=A+Smarter+Way+to+Find+Your+Future.;Explore+Opportunities.+Build+Your+Career.;Your+Journey.+Your+Skills.+Your+Success." alt="Animated introduction"/>
+<img src="https://img.shields.io/badge/Project-Online%20Job%20Portal-6366F1?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-F59E0B?style=for-the-badge"/>
 
 <br/><br/>
 
-**A complete career companion for discovering opportunities, creating professional resumes, and managing your job-search journey.**
+<a href="#features">Features</a> •
+<a href="#screenshots">Screenshots</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#installation">Installation</a> •
+<a href="#future-enhancements">Future Scope</a>
+
+</div>
+
+---
+
+## 🌟 About The Project
+
+**Online Job Portal** is a user-friendly web application developed using HTML5, CSS3, and JavaScript.
+
+The platform provides job seekers with a centralized space to discover suitable opportunities, create professional resumes, apply for jobs, track applications, and prepare for interviews.
+
+It offers a complete career-support experience through an interactive dashboard, intelligent job search, resume tools, and interview preparation features.
+
+### 🎯 Project Objective
+
+The main objective is to develop a simple and efficient online platform that connects job seekers with suitable career opportunities while helping them manage their entire job-search process in one place.
+
+---
+
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Account Management
+- User Login & Registration
+- Personalized User Profile
+- Profile Management
+- User Dashboard
+
+### 🔍 Job Discovery
+- Smart Job Search
+- Advanced Job Filters
+- Location-Based Search
+- Featured Jobs
+- Job Details
+- Saved Jobs
+
+</td>
+<td width="50%">
+
+### 📄 Career Tools
+- Professional Resume Builder
+- Resume Score Analyzer
+- Resume Preview & Download
+- Technical & HR Mock Interviews
+
+### 📊 Application Management
+- Apply for Jobs
+- My Applications
+- Application Status Tracking
+- Interview Progress
+
+### 🎨 User Experience
+- Dark Mode
+- Responsive Design
+- Interactive Interface
+- Easy Navigation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📸 Screenshots
+
+Explore the different modules of the Online Job Portal.
+
+### 🔐 Login Page
+A clean and responsive authentication interface that allows users to access their accounts using email and password.
+
+<p align="center">
+<img src="image/login.png" width="85%" alt="Login Page"/>
+</p>
+
+### 📝 Create Account
+A simple registration interface to enter personal details, educational qualifications, gender, work experience, and job update preferences.
+
+<p align="center">
+<img src="image/create.png" width="85%" alt="Create Account"/>
+</p>
+
+### 🏠 Job Portal Dashboard
+A personalized dashboard that provides quick access to job opportunities, applications, resume tools, profile management, and interview preparation.
+
+<p align="center">
+<img src="image/dashboard.png" width="90%" alt="Dashboard"/>
+</p>
+
+### ⭐ Featured Jobs
+Discover popular and relevant job opportunities based on skills, interests, and qualifications.
+
+<p align="center">
+<img src="image/featuredjob.png" width="90%" alt="Featured Jobs"/>
+</p>
+
+### 📄 Resume Builder
+Create professional resumes by adding personal information, education, skills, certifications, projects, and experience.
+
+<p align="center">
+<img src="image/resumebuilder.png" width="90%" alt="Resume Builder"/>
+</p>
+
+### 📝 Apply for Jobs
+Explore job details and submit applications through a simple application interface.
+
+<p align="center">
+<img src="image/applied.png" width="90%" alt="Apply for Jobs"/>
+</p>
+
+### 📋 My Applications
+Track applied jobs, monitor application statuses, and manage interview progress.
+
+<p align="center">
+<img src="image/myapplication.png" width="90%" alt="My Applications"/>
+</p>
+
+### 👤 My Profile
+Manage personal information, education, skills, certifications, achievements, projects, and experience.
+
+<p align="center">
+<img src="image/profile.png" width="90%" alt="My Profile"/>
+</p>
+
+### 📊 Resume Score Analyzer
+Evaluate resume quality and receive suggestions to improve content, skills, formatting, and job relevance.
+
+<p align="center">
+<img src="image/resumescore.png" width="90%" alt="Resume Score"/>
+</p>
+
+### 🎤 Mock Interview
+Practice common technical and HR interview questions to improve confidence, communication, and interview readiness.
+
+<p align="center">
+<img src="image/interview.png" width="90%" alt="Mock Interview"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+| Technology | Purpose |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=html" width="40"/> HTML5 | Web Structure |
+| <img src="https://skillicons.dev/icons?i=css" width="40"/> CSS3 | Styling & Responsive Design |
+| <img src="https://skillicons.dev/icons?i=js" width="40"/> JavaScript | Functionality & Interactivity |
 
 <br/>
 
-<a href="YOUR_LIVE_DEMO_LINK">Live Preview</a> &nbsp; ◇ &nbsp;
-<a href="YOUR_PROJECT_DEMO_LINK">Project Showcase</a> &nbsp; ◇ &nbsp;
-<a href="#features">Explore Features</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-Structure-8B6FD6?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-Design-8B6FD6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Interaction-8B6FD6?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive-Design-B9A2E8?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
 
 </div>
 
 ---
 
-<div align="center">
-
-### THE ART OF FINDING THE RIGHT OPPORTUNITY
-
-*More than a job portal. A better way to navigate your career.*
-
-</div>
-
-## 01 — The Concept
-
-Finding the right opportunity can be challenging, especially when managing job searches, resumes, applications, and interview preparation across different platforms.
-
-**Online Job Portal** brings these essential career activities together in one centralized platform.
-
-Designed with a clean interface and interactive features, the application helps users explore job opportunities, build professional resumes, evaluate resume quality, and prepare for interviews.
-
-The platform aims to make career exploration more accessible, organized, and efficient.
-
-## 02 — The Experience
-
-<div align="center">
-
-| DISCOVER | CREATE | PROGRESS |
-|:---:|:---:|:---:|
-| Find opportunities that match your interests. | Present your skills with professional resumes. | Manage applications and prepare for interviews. |
-
-</div>
-
-## 03 — Features & Capabilities
-
-### ◇ Account & Personalization
-
-- User login and registration
-- Personalized dashboard
-- Profile creation and management
-- Educational and professional information
-
-### ◇ Job Discovery
-
-- Smart job search
-- Advanced job filters
-- Location-based job search
-- Featured job opportunities
-- Detailed job information
-- Saved jobs
-
-### ◇ Resume Studio
-
-- Professional resume builder
-- Personal and educational details
-- Technical skills and certifications
-- Projects and work experience
-- Resume preview and download
-- Resume score analyzer
-
-### ◇ Application Management
-
-- Apply for jobs
-- My Applications dashboard
-- Application status tracking
-- Interview progress monitoring
-
-### ◇ Career Preparation
-
-- Technical interview questions
-- HR interview practice
-- Mock interview module
-- Career profile management
-
-### ◇ Interface Experience
-
-- Dark mode
-- Responsive layout
-- Interactive navigation
-- User-friendly design
-
----
-
-## 04 — A Look Inside
-
-*An overview of the major screens and experiences.*
-
-<div align="center">
-
-### 01 / AUTHENTICATION
-
-**Your journey begins here.**
-
-<img src="image/login.png" width="88%" alt="Login interface"/>
-
-<sub>A clean authentication interface for accessing the platform.</sub>
-
-<br/><br/>
-
-### 02 / ACCOUNT CREATION
-
-**Create your professional identity.**
-
-<img src="image/create.png" width="88%" alt="Create account interface"/>
-
-<sub>Enter personal information, education, and experience details.</sub>
-
-<br/><br/>
-
-### 03 / DASHBOARD
-
-**Everything in one place.**
-
-<img src="image/dashboard.png" width="94%" alt="Dashboard"/>
-
-<sub>A centralized workspace for job discovery and career management.</sub>
-
-<br/><br/>
-
-### 04 / JOB DISCOVERY
-
-**Explore what is possible.**
-
-<img src="image/featuredjob.png" width="94%" alt="Featured jobs"/>
-
-<sub>Discover relevant openings and explore available opportunities.</sub>
-
-<br/><br/>
-
-### 05 / RESUME BUILDER
-
-**Turn your skills into your story.**
-
-<img src="image/resumebuilder.png" width="94%" alt="Resume builder"/>
-
-<sub>Create and customize professional resumes.</sub>
-
-<br/><br/>
-
-### 06 / APPLICATION TRACKER
-
-**Stay connected to every opportunity.**
-
-<img src="image/myapplication.png" width="94%" alt="My applications"/>
-
-<sub>Organize applied jobs and follow recruitment progress.</sub>
-
-<br/><br/>
-
-### 07 / PROFILE MANAGEMENT
-
-**Showcase your potential.**
-
-<img src="image/profile.png" width="94%" alt="Profile management"/>
-
-<sub>Maintain your education, experience, skills, and achievements.</sub>
-
-<br/><br/>
-
-### 08 / RESUME ANALYSIS
-
-**Make every detail count.**
-
-<img src="image/resumescore.png" width="94%" alt="Resume score"/>
-
-<sub>Evaluate resume quality and identify areas for improvement.</sub>
-
-<br/><br/>
-
-### 09 / MOCK INTERVIEW
-
-**Prepare with confidence.**
-
-<img src="image/interview.png" width="94%" alt="Mock interview"/>
-
-<sub>Practice technical and HR interview questions.</sub>
-
-</div>
-
----
-
-## 05 — Technology & Architecture
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark" />
-
-<br/><br/>
-
-</div>
-
-| Technology | Implementation |
-|---|---|
-| HTML5 | Page structure and content |
-| CSS3 | Styling, layouts and responsive design |
-| JavaScript | Interactive functionality |
-| VS Code | Development environment |
-| Git & GitHub | Version control and hosting |
-
-## 06 — Project Structure
+## 📁 Project Structure
 
 ```text
-online-job-portal/
+Online-Job-Portal/
 │
 ├── index.html
 ├── builder.html
@@ -258,98 +219,134 @@ online-job-portal/
     └── resumescore.png
 ```
 
-## 07 — Installation & Setup
+---
 
-Get the project running locally.
+## ⚙️ Installation
 
-**Step 1 — Clone the repository**
+Follow these steps to run the project locally.
+
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/krgowsalya1406-gif/online-job-portal.git
 ```
 
-**Step 2 — Navigate to the directory**
+**2. Navigate to the project folder**
 
 ```bash
 cd online-job-portal
 ```
 
-**Step 3 — Open in Visual Studio Code**
+**3. Open the project**
 
-```bash
-code .
-```
+Open `index.html` in your browser or use the Live Server extension in Visual Studio Code.
 
-**Step 4 — Launch the application**
+**4. Explore the application**
 
-Open `index.html` using your browser or the VS Code Live Server extension.
+Create an account, explore job listings, build your resume, and try the available features.
 
-## 08 — Future Possibilities
+---
 
-The next evolution of the platform could include:
+## 🎥 Project Demo
 
-| Enhancement | Vision |
-|---|---|
-| AI Job Recommendations | Personalized job matching |
-| Intelligent Resume Analysis | Deeper resume feedback |
-| AI Mock Interviews | Personalized interview evaluation |
-| Automated Job Alerts | Notifications for relevant openings |
-| Skill Gap Analysis | Identify skills to improve |
-| Interview Scheduling | Simplified recruitment coordination |
-| Recruiter Dashboard | Employer-side job management |
-| Learning Integration | Courses and career development |
-| Mobile Application | Career access on the go |
+Watch the project demonstration to explore the user interface and functionality.
 
-## 09 — What This Project Represents
+<p align="center">
 
-This project provided practical experience in frontend development and real-world application design.
+<a href="YOUR_PROJECT_DEMO_VIDEO_LINK">
+<img src="https://img.shields.io/badge/▶%20Watch%20Project%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-Key learning areas:
+</p>
 
-- Responsive website development
-- HTML, CSS, and JavaScript integration
-- Multi-page application structure
-- Interactive user interfaces
-- Form handling and validation
-- Job-search and application workflows
-- Resume and profile management
+## 🚀 Live Demo
+
+<p align="center">
+
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/🌐%20Explore%20Live%20Project-6366F1?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Project Highlights
+
+- **User-Friendly Interface:** Clean, responsive, and easy-to-navigate design.
+- **Personalized Dashboard:** Centralized access to career-related activities.
+- **Smart Job Search:** Find opportunities using search and filters.
+- **Resume Builder:** Generate professional resumes.
+- **Resume Score Analyzer:** Get feedback to improve resume quality.
+- **Application Tracking:** Monitor job application progress.
+- **Mock Interview:** Practice technical and HR questions.
+- **Profile Management:** Maintain a professional career profile.
+- **Dark Mode:** Enjoy a comfortable browsing experience.
+
+---
+
+## 🔮 Future Enhancements
+
+The project can be enhanced with additional intelligent career-support features.
+
+- 🤖 AI-Powered Job Recommendations
+- 🔔 Automated Job Alerts
+- 🧠 AI-Based Resume Analysis
+- 🎤 AI Mock Interview with Personalized Feedback
+- 📈 Skill Gap Analysis
+- 📅 Online Interview Scheduling
+- ⚡ Real-Time Application Updates
+- 🏢 Recruiter Dashboard
+- 📚 Online Course Integration
+- 📱 Dedicated Mobile Application
+
+---
+
+## 🎓 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Building responsive web interfaces using HTML and CSS.
+- Implementing interactive features using JavaScript.
+- Developing multi-page web applications.
+- Creating user-friendly forms and dashboards.
+- Working with frontend navigation and application workflows.
+- Understanding real-world career management requirements.
+
+---
+
+## 👩‍💻 Developer
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=K.R.+Gowsalya;Computer+Science+Engineering+Student;Frontend+Developer+%7C+Tech+Enthusiast" />
+
+### K.R. Gowsalya
+
+Computer Science and Engineering Student
+
+Passionate about building creative, user-friendly, and meaningful web applications.
+
+<br/>
+
+<a href="https://github.com/krgowsalya1406-gif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gowsalya-k-r-160037363">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## THE DEVELOPER
+### 💙 Built with Passion, Creativity & Code
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=27&duration=3500&pause=1300&color=C4B5FD&center=true&vCenter=true&width=500&lines=K.R.+Gowsalya;Computer+Science+Engineering;Building+Ideas+Into+Reality." alt="Developer animation"/>
+**Every opportunity begins with a single step. Start your career journey today!**
 
-**K.R. Gowsalya**
-
-Computer Science & Engineering Student
-
-*Interested in web development, emerging technologies, and building meaningful digital solutions.*
-
-<br/>
-
-<a href="https://github.com/krgowsalya1406-gif">
-<img src="https://img.shields.io/badge/GitHub-18121F?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gowsalya-k-r-160037363">
-<img src="https://img.shields.io/badge/LinkedIn-18121F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=krgowsalya1406-gif&label=PROFILE%20VISITORS&color=7552B8&style=flat-square"/>
-
-<br/><br/>
-
----
-
-### A CAREER IS BUILT ONE OPPORTUNITY AT A TIME.
-
-*Designed with purpose. Developed with passion. Built for possibilities.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090612,40:21143D,100:51328A&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
 
 </div>
