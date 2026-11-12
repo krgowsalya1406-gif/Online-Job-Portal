@@ -37,85 +37,14 @@ The main objective is to develop a simple and efficient online platform that con
 ---
 ---
 
-## ✨ Features That Make Job Searching Smarter
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🔐 Smart Access
-- Secure Login & Registration
-- Personalized Dashboard
-- Profile Completion Tracker
-- User Account Management
 
-### 🚀 Discover Opportunities
-- Intelligent Job Search
-- Advanced Job Filters
-- Featured Opportunities
-- Location-Based Job Discovery
-- Bookmark Your Favorite Jobs
 
-### 📄 Resume Studio
-- Professional Resume Builder
-- Live Resume Preview
-- Resume Score Analysis
-- Downloadable Resume
-- Job-Specific Resume Customization
 
-</td>
-<td width="50%" valign="top">
 
-### 🎯 Career Intelligence
-- Job Compatibility Score
-- Missing Skills Identification
-- Career Path Suggestions
-- Personalized Improvement Tips
 
-### 🎤 Interview Arena
-- Technical Interview Practice
-- HR Interview Challenges
-- Random Question Generator
-- Timed Interview Sessions
-- Performance Evaluation
 
-### 📊 Application Tracker
-- Application Status Monitoring
-- Interview Progress
-- Application History
-- Follow-Up Reminders
-
-</td>
-</tr>
-</table>
-
-### 🌟 Exclusive Career Experiences
-
-| Feature | Description |
-|:---|:---|
-| 🧭 **Career Compass** | Explore career paths and discover the skills needed to reach your goals. |
-| 🔍 **Resume X-Ray** | Compare your resume with job requirements and uncover missing keywords. |
-| 🎮 **Skill Arena** | Test your coding, technical, and problem-solving abilities through challenges. |
-| 🌐 **Opportunity Radar** | Discover jobs, internships, hackathons, and career opportunities in one place. |
-| 🛡️ **Job Safety Shield** | Identify suspicious job postings through warning indicators. |
-| 💼 **Portfolio Showcase** | Present your projects, certifications, and technical skills professionally. |
-| ⚡ **Quick Apply** | Access job details and application forms through a simplified workflow. |
-| 📅 **Career Calendar** | Organize application deadlines, interviews, and important career events. |
-| 🏆 **Achievement Zone** | Celebrate completed challenges, learning milestones, and career achievements. |
-| 💡 **Career Assistant** | Get helpful career guidance, resume tips, and interview preparation support. |
-
-### 🎨 Seamless User Experience
-
-- 🌙 Dark & Light Mode
-- 📱 Fully Responsive Interface
-- ⚡ Smooth Animations & Transitions
-- 🔔 Interactive Notifications
-- 🎨 Modern UI Design
-- 💾 Local Data Persistence
-- 🧭 Simple Navigation
-- 📊 Interactive Dashboard
-
----
 ## ✨ Features
 
 <table>
@@ -296,29 +225,8 @@ Online-Job-Portal/
 
 ---
 
-## ⚙️ Installation
 
-Follow these steps to run the project locally.
 
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/krgowsalya1406-gif/online-job-portal.git
-```
-
-**2. Navigate to the project folder**
-
-```bash
-cd online-job-portal
-```
-
-**3. Open the project**
-
-Open `index.html` in your browser or use the Live Server extension in Visual Studio Code.
-
-**4. Explore the application**
-
-Create an account, explore job listings, build your resume, and try the available features.
 
 ---
 
@@ -328,7 +236,7 @@ Watch the project demonstration to explore the user interface and functionality.
 
 <p align="center">
 
-<a href="YOUR_PROJECT_DEMO_VIDEO_LINK">
+<a href="">
 <img src="https://img.shields.io/badge/▶%20Watch%20Project%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
@@ -338,7 +246,7 @@ Watch the project demonstration to explore the user interface and functionality.
 
 <p align="center">
 
-<a href="YOUR_LIVE_DEMO_LINK">
+<a href="">
 <img src="https://img.shields.io/badge/🌐%20Explore%20Live%20Project-6366F1?style=for-the-badge"/>
 </a>
 
