@@ -302,7 +302,7 @@ Through this project, I gained practical experience in:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=K.R.+Gowsalya;Computer+Science+Engineering+Student;Frontend+Developer+%7C+Tech+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=K.R.+Gowsalya;Computer+%7C+" />
 
 ### K.R. Gowsalya
 
