@@ -306,23 +306,6 @@ Through this project, I gained practical experience in:
 
 ### K.R. Gowsalya
 
-Computer Science and Engineering Student
-
-Passionate about building creative, user-friendly, and meaningful web applications.
-
-<br/>
-
-<a href="https://github.com/krgowsalya1406-gif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gowsalya-k-r-160037363">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
