@@ -135,7 +135,7 @@ Create professional resumes by adding personal information, education, skills, c
 Explore job details and submit applications through a simple application interface.
 
 <p align="center">
-<img src="image/applied.png" width="90%" alt="Apply for Jobs"/>
+<img src="image/appliedjob.png" width="90%" alt="Apply for Jobs"/>
 </p>
 
 ### 📋 My Applications
@@ -236,7 +236,7 @@ Watch the project demonstration to explore the user interface and functionality.
 
 <p align="center">
 
-<a href="">
+<a href="prismatic-concha-c5fad9.netlify.app">
 <img src="https://img.shields.io/badge/▶%20Watch%20Project%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
