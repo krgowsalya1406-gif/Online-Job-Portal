@@ -38,6 +38,16 @@ The main objective is to develop a simple and efficient online platform that con
 ---
 
 
+## ✨ Key Features
+
+| Module | Features |
+|:---|:---|
+| 🔐 **Authentication** | Login, Registration, Profile Management |
+| 🔍 **Job Explorer** | Smart Search, Filters, Featured Jobs, Saved Jobs |
+| 📄 **Resume Studio** | Resume Builder, Score Analyzer, PDF Download |
+| 📊 **Application Hub** | Apply for Jobs, Track Status, Application History |
+| 🎤 **Interview Zone** | Technical Practice, HR Questions, Mock Interviews |
+| 🎨 **Personalization** | Dark Mode, Responsive UI, Interactive Dashboard |
 
 
 
@@ -45,52 +55,12 @@ The main objective is to develop a simple and efficient online platform that con
 
 
 
-## ✨ Features
 
-<table>
-<tr>
-<td width="50%">
 
-### 🔐 Account Management
-- User Login & Registration
-- Personalized User Profile
-- Profile Management
-- User Dashboard
 
-### 🔍 Job Discovery
-- Smart Job Search
-- Advanced Job Filters
-- Location-Based Search
-- Featured Jobs
-- Job Details
-- Saved Jobs
 
-</td>
-<td width="50%">
 
-### 📄 Career Tools
-- Professional Resume Builder
-- Resume Score Analyzer
-- Resume Preview & Download
-- Technical & HR Mock Interviews
 
-### 📊 Application Management
-- Apply for Jobs
-- My Applications
-- Application Status Tracking
-- Interview Progress
-
-### 🎨 User Experience
-- Dark Mode
-- Responsive Design
-- Interactive Interface
-- Easy Navigation
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📸 Screenshots
 
