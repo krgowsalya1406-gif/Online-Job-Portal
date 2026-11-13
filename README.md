@@ -34,84 +34,18 @@ It offers a complete career-support experience through an interactive dashboard,
 
 The main objective is to develop a simple and efficient online platform that connects job seekers with suitable career opportunities while helping them manage their entire job-search process in one place.
 
----
----
-
-## ✨ Features
 
 
+## ✨ Key Features
 
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Authentication & Profile
-- Secure Login & Registration
-- Personalized User Dashboard
-- Profile Customization
-- Account Management
-
-### 🔍 Smart Job Discovery
-- Intelligent Job Search
-- Advanced Job Filtering
-- Location-Based Opportunities
-- Featured & Trending Jobs
-- Saved Jobs & Bookmarks
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Resume & Career Tools
-- Professional Resume Builder
-- Resume Score Analysis
-- Resume Preview & PDF Export
-- Resume Improvement Suggestions
-
-### 📊 Application Tracking
-- Online Job Applications
-- Application Status Tracking
-- Interview Progress Monitoring
-- Application History
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎤 Interview Preparation
-- Technical Interview Practice
-- HR Interview Questions
-- Mock Interview Sessions
-- Interview Readiness
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 User Experience
-- Dark & Light Theme
-- Responsive Interface
-- Interactive Dashboard
-- Smooth Navigation
-- User-Friendly Design
-
-</td>
-</tr>
-</table>
-
----
-
-
-
-
-
-
-
-
-
-
-
+| Module | Features |
+|:---|:---|
+| 🔐 **Authentication** | Login, Registration, Profile Management |
+| 🔍 **Job Explorer** | Smart Search, Filters, Featured Jobs, Saved Jobs |
+| 📄 **Resume Studio** | Resume Builder, Score Analyzer, PDF Download |
+| 📊 **Application Hub** | Apply for Jobs, Track Status, Application History |
+| 🎤 **Interview Zone** | Technical Practice, HR Questions, Mock Interviews |
+| 🎨 **Personalization** | Dark Mode, Responsive UI, Interactive Dashboard |
 
 ## 📸 Screenshots
 
