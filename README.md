@@ -40,9 +40,7 @@ The main objective is to develop a simple and efficient online platform that con
 ## ✨ Features
 
 
-## ✨ Features
 
----
 
 <table>
 <tr>
