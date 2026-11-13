@@ -52,6 +52,65 @@ The main objective is to develop a simple and efficient online platform that con
 
 
 
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Authentication & Profile
+- Secure Login & Registration
+- Personalized User Dashboard
+- Profile Customization
+- Account Management
+
+### 🔍 Smart Job Discovery
+- Intelligent Job Search
+- Advanced Job Filtering
+- Location-Based Opportunities
+- Featured & Trending Jobs
+- Saved Jobs & Bookmarks
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 Resume & Career Tools
+- Professional Resume Builder
+- Resume Score Analysis
+- Resume Preview & PDF Export
+- Resume Improvement Suggestions
+
+### 📊 Application Tracking
+- Online Job Applications
+- Application Status Tracking
+- Interview Progress Monitoring
+- Application History
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 Interview Preparation
+- Technical Interview Practice
+- HR Interview Questions
+- Mock Interview Sessions
+- Interview Readiness
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 User Experience
+- Premium Dark Mode
+- Responsive Interface
+- Interactive Dashboard
+- Smooth Navigation
+- User-Friendly Design
+
+</td>
+</tr>
+</table>
+
 
 
 
