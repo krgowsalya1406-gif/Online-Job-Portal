@@ -197,15 +197,15 @@ Watch the project demonstration to explore the user interface and functionality.
 
 </p>
 
+
 ## 🚀 Live Demo
 
 <p align="center">
-
-<a href="prismatic-concha-c5fad9.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Explore%20Live%20Project-6366F1?style=for-the-badge"/>
+<a href="https://prismatic-concha-c5fad9.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Explore_Live_Project-6366F1?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
 </a>
-
 </p>
+
 
 ---
 
