@@ -200,6 +200,9 @@ Watch the project demonstration to explore the user interface and functionality.
 
 ## 🚀 Live Demo
 
+Experience the Online Job Portal and explore its interactive features, job discovery interface, resume tools, and application management system.
+
+
 <p align="center">
 <a href="https://prismatic-concha-c5fad9.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Explore_Live_Project-6366F1?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
