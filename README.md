@@ -258,39 +258,17 @@ Through this project, I gained practical experience in:
 
 ## 👩‍💻 Developer
 
-<div align="center">
 
-<svg width="650" height="80" viewBox="0 0 650 80" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .name {
-      font: 800 28px Poppins, sans-serif;
-      fill: #A78BFA;
-    }
-    .role {
-      font: 600 20px Poppins, sans-serif;
-      fill: #A78BFA;
-      opacity: 0;
-      animation: rotate 10s infinite;
-    }
-    @keyframes rotate {
-      0%, 24% { opacity: 1; }
-      25%, 100% { opacity: 0; }
-    }
-  </style>
-
-  <text x="325" y="30" text-anchor="middle" class="name">
-    Gowsalya 👋
-  </text>
-
-  <g text-anchor="middle">
-    <text x="325" y="65" class="role">
-      Computer Science Engineering Student
-    </text>
-  </g>
-</svg>
 
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Gowsalya+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Frontend+Developer+%7C+Tech+Explorer;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" />
+</p>
 ### 💙 Built with Passion, Creativity & Code
 
 **Every opportunity begins with a single step. Start your career journey today!**
