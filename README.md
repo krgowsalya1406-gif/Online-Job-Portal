@@ -268,8 +268,9 @@ Through this project, I gained practical experience in:
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Frontend+Developer+%7C+Tech+Explorer;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" />
-</p>
-### 💙 Built with Passion, Creativity & Code
+</p> 
+
+💙 Built with Passion, Creativity & Code
 
 **Every opportunity begins with a single step. Start your career journey today!**
 
