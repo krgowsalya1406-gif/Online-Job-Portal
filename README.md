@@ -195,12 +195,15 @@ Watch the project demonstration to explore the user interface and functionality.
 <img src="https://img.shields.io/badge/▶%20Watch%20Project%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-</p>
+## 🎥 Source code
 
-### 💻 SOURCE CODE
+Watch the project demonstration to explore the user interface and functionality.
 
-<a href="YOUR_GITHUB_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+<p align="center">
+
+<a href="">
+  <img src="https://img.shields.io/badge/⌘_EXPLORE_SOURCE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+
 </a>
 
 ## 🚀 Live Demo
