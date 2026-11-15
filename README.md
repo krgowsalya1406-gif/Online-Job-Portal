@@ -197,6 +197,11 @@ Watch the project demonstration to explore the user interface and functionality.
 
 </p>
 
+### 💻 SOURCE CODE
+
+<a href="YOUR_GITHUB_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/VIEW_ON_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+</a>
 
 ## 🚀 Live Demo
 
