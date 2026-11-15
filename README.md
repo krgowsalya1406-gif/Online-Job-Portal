@@ -197,7 +197,8 @@ Watch the project demonstration to explore the user interface and functionality.
 
 ## 🎥 Source code
 
-Watch the project demonstration to explore the user interface and functionality.
+Explore the complete DonorSync project source code, including its donation management interface, resource-sharing features, interactive components, and web application functionality.
+
 
 <p align="center">
 
