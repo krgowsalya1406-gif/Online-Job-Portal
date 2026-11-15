@@ -201,8 +201,8 @@ Watch the project demonstration to explore the user interface and functionality.
 
 <p align="center">
 
-<a href="">
-  <img src="https://img.shields.io/badge/⌘_EXPLORE_SOURCE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+<a href="https://github.com/krgowsalya1406-gif/Online-Job-Portal.git">
+  <img src="https://img.shields.io/badge/_EXPLORE_SOURCE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 
 </a>
 
