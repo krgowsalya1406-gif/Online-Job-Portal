@@ -197,9 +197,7 @@ Watch the project demonstration to explore the user interface and functionality.
 
 ## 🎥 Source code
 
-Explore the complete DonorSync project source code, including its donation management interface, resource-sharing features, interactive components, and web application functionality.
-
-
+Explore the complete Online Portal project source code, including its user registration and login interface, dashboard management, information-sharing features, interactive components, and web application functionality.
 <p align="center">
 
 <a href="https://github.com/krgowsalya1406-gif/Online-Job-Portal.git">
